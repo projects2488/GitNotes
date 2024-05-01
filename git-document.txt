@@ -7,3 +7,4 @@ Version control: This enables multiple developers to work on the same project si
 Branching: Git allows you to create branches of your codebase to experiment with new features or bug fixes without affecting the main project.
 Merging: Once you're happy with the changes in a branch, you can easily merge them back into the main codebase.
 Distributed: Unlike some other VCS systems, Git doesn't rely on a central server. Each developer has a complete copy of the project history, making collaboration easier.
+Added a line from laxmikanth
